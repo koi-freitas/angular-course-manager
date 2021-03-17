@@ -28,7 +28,7 @@ export class CourseListComponent implements OnInit {
                 price: 45.99,
                 code: 'LKL-1094',
                 duration: 80,
-                rating: 5.4,
+                rating: 3.5,
                 releaseDate:'March, 14, 2021'
             }
         ]
